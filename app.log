@@ -1,0 +1,44 @@
+2024-09-24 17:49:50,342 - ERROR - Error loading data: [Errno 2] No such file or directory: 'movies.csv'
+2024-09-24 19:16:07,173 - INFO - Use pytorch device_name: cuda
+2024-09-24 19:16:07,173 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-09-24 19:16:07,173 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-09-24 19:16:47,243 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2024-09-24 19:17:27,282 - DEBUG - Starting new HTTPS connection (3): huggingface.co:443
+2024-09-24 19:18:07,335 - DEBUG - Starting new HTTPS connection (4): huggingface.co:443
+2024-09-24 19:18:47,373 - DEBUG - Starting new HTTPS connection (5): huggingface.co:443
+2024-09-24 19:19:27,408 - DEBUG - Starting new HTTPS connection (6): huggingface.co:443
+2024-09-24 19:20:07,823 - DEBUG - Starting new HTTPS connection (7): huggingface.co:443
+2024-09-24 19:20:47,861 - DEBUG - Starting new HTTPS connection (8): huggingface.co:443
+2024-09-24 19:21:27,895 - DEBUG - Starting new HTTPS connection (9): huggingface.co:443
+2024-09-24 19:22:07,963 - DEBUG - Starting new HTTPS connection (10): huggingface.co:443
+2024-09-24 19:22:47,982 - DEBUG - Starting new HTTPS connection (11): huggingface.co:443
+2024-09-24 19:23:28,167 - INFO - Use pytorch device_name: cuda
+2024-09-24 19:23:28,167 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-09-24 19:23:28,169 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-09-24 19:24:07,788 - DEBUG - Popen(['git', 'version'], cwd=D:\My projects, universal_newlines=False, shell=None, istream=None)
+2024-09-24 19:24:07,850 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=D:\My projects, universal_newlines=False, shell=None, istream=None)
+2024-09-24 19:24:08,206 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2024-09-24 19:24:26,019 - DEBUG - Popen(['git', 'version'], cwd=D:\My projects, universal_newlines=False, shell=None, istream=None)
+2024-09-24 19:24:26,070 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=D:\My projects, universal_newlines=False, shell=None, istream=None)
+2024-09-24 19:24:48,253 - DEBUG - Starting new HTTPS connection (3): huggingface.co:443
+2024-09-24 19:25:28,304 - DEBUG - Starting new HTTPS connection (4): huggingface.co:443
+2024-09-24 19:26:08,363 - DEBUG - Starting new HTTPS connection (5): huggingface.co:443
+2024-09-24 19:26:48,402 - DEBUG - Starting new HTTPS connection (6): huggingface.co:443
+2024-09-24 19:27:28,447 - DEBUG - Starting new HTTPS connection (7): huggingface.co:443
+2024-09-24 19:28:08,477 - DEBUG - Starting new HTTPS connection (8): huggingface.co:443
+2024-09-24 19:28:48,544 - DEBUG - Starting new HTTPS connection (9): huggingface.co:443
+2024-09-24 19:29:28,584 - DEBUG - Starting new HTTPS connection (10): huggingface.co:443
+2024-09-24 19:30:08,631 - DEBUG - Starting new HTTPS connection (11): huggingface.co:443
+2024-09-24 19:30:48,685 - INFO - Use pytorch device_name: cuda
+2024-09-24 19:30:48,685 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2024-09-24 19:30:48,688 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-09-24 19:31:28,838 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2024-09-24 19:32:08,847 - DEBUG - Starting new HTTPS connection (3): huggingface.co:443
+2024-09-24 19:32:48,899 - DEBUG - Starting new HTTPS connection (4): huggingface.co:443
+2024-09-24 19:33:28,923 - DEBUG - Starting new HTTPS connection (5): huggingface.co:443
+2024-09-24 19:34:08,980 - DEBUG - Starting new HTTPS connection (6): huggingface.co:443
+2024-09-24 19:34:49,012 - DEBUG - Starting new HTTPS connection (7): huggingface.co:443
+2024-09-24 19:35:29,063 - DEBUG - Starting new HTTPS connection (8): huggingface.co:443
+2024-09-24 19:36:09,095 - DEBUG - Starting new HTTPS connection (9): huggingface.co:443
+2024-09-24 19:36:49,191 - DEBUG - Starting new HTTPS connection (10): huggingface.co:443
+2024-09-24 19:37:29,224 - DEBUG - Starting new HTTPS connection (11): huggingface.co:443
