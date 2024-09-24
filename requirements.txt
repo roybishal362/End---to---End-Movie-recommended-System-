@@ -1,0 +1,7 @@
+pandas 
+numpy 
+streamlit
+garido
+Tarnsformer 
+scikit-learn
+utils
