@@ -33,6 +33,5 @@ pip install -r requirements.txt
 
 Alternatively, you can use the Gradio interface:
 ```bash
-!pip install gradio
-python gradio_app.py
-
+streamlit run  app.py
+```
